@@ -1,0 +1,19 @@
+.bg-footer {
+    background-color: #333333 !important;
+}
+
+.icon-footer {
+    color: white !important;
+}
+
+.line {
+    border-bottom: 0.1px solid #b39785;
+}
+
+p {
+    color: white;
+}
+
+h4 {
+    color: white;
+}

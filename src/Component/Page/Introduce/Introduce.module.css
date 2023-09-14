@@ -1,0 +1,39 @@
+.text-black{
+    color: #353535;
+}
+.anh{
+    height: 80px;
+}
+.text-size{
+    font-size: 14px;
+}
+.anh7{
+    height: 450px;
+
+}
+.bold{
+    font-weight: bold;
+}
+.relative{
+   position: relative;
+}
+.absolute{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+.size{
+    font-size: 25px;
+}
+.nghieng{
+    font-style: italic;
+}
+/* .overlay{
+    position: fixed;
+    top: 50%;
+    right: 0px;
+    left: 0px;
+    background-color: rgba(0,0,0,0.3);
+} */

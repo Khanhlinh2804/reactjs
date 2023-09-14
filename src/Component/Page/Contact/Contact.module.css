@@ -1,0 +1,14 @@
+.map{
+    width: 100%;
+}
+.icon{
+    background-color: #C89979 !important;
+    padding: 10px 15px 0px 15px !important;
+    height: 50px !important;
+}
+.text{
+    color: black !important;
+}
+.title{
+    color: black !important;
+}

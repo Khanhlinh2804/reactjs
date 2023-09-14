@@ -1,0 +1,147 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.login-signup-fix {
+    border-top: 1px solid #707070;
+    padding-bottom: 10px;
+    width: 30%;
+
+}
+
+.width {
+    width: 100%;
+}
+
+.banner {
+    position: relative;
+}
+
+.include-banner-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 50px !important;
+    /* font-family: 'Roboto-regular'; */
+}
+
+.line {
+    width: 1px;
+    background-color: #707070;
+    height: 500px;
+    margin-left: 75px;
+}
+
+.a {
+    font-size: 35px;
+    /* font-family: 'Roboto-regular'; */
+
+}
+
+.b {
+    font-size: 16px;
+    /* font-family: 'Roboto-light'; */
+}
+
+/* .ipp{
+    border-bottom: 1px solid #ccc;
+    outline: none;
+} */
+input {
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #ccc;
+    background-color:#fff;
+}
+
+.h-55 {
+    height: 55px;
+}
+
+.btn-a {
+    color: white;
+    background-color: #252617;
+    border: none;
+}
+
+.or {
+    /* font-family: 'Roboto-regular'; */
+    color: #707070;
+}
+
+.note {
+    font-size: 16px;
+    /* font-family: 'Roboto-light'; */
+    color: #9A9A9A;
+    text-align: center;
+}
+
+.login-signup {
+    position: relative;
+}
+
+.login-signup a {
+    text-decoration: none;
+    /* font-family: 'Roboto-light'; */
+    color: #707070;
+}
+
+.fix {
+    position: absolute;
+    top: 25%;
+    left: 18%;
+}
+.boder{
+    border-right: 1px solid #ccc
+}
+@media screen and (max-width:1024px) and (min-width:768px) {
+    .include-banner-text p {
+        font-size: 30px;
+    }
+
+    .fix {
+        left: 15%;
+    }
+
+    .line {
+        display: none;
+    }
+
+    .a {
+        margin-top: 5rem;
+    }
+}
+
+@media screen and (max-width:426px) and (min-width:0px) {
+    .line {
+        display: none;
+    }
+
+    .banner p {
+        font-size: 24px;
+    }
+
+    .fix {
+        left: 15%;
+    }
+
+    .include-banner-text p {
+        font-size: 16px;
+    }
+
+    .a {
+        margin-top: 5rem;
+    }
+
+}
+
+.text-black {
+    color: #353535;
+}
+.color-red{
+    color: red;
+}

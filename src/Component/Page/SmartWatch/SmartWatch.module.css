@@ -1,0 +1,16 @@
+li {
+    isolation: none;
+}
+button {
+    padding-top: -1px !important;
+}
+.images {
+    height: 300px;
+    width: 250px;
+}
+.color-red{
+    color: red;
+}
+:hover .hover{
+    background-color: red;
+}

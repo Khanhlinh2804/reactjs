@@ -1,0 +1,26 @@
+.linh {
+    box-shadow: none !important;
+    outline: none;
+    width: 242px !important ;
+}
+.text-black{
+    color: black;
+}
+.img{
+    width: 80%;
+    border-radius: 50%;
+}
+.font-text{
+    font-size: 14px;
+}
+.boder{
+    border: 1px solid #ddd;
+    
+}
+.boders{
+    border-bottom: none;
+}
+.card{
+    width: 15rem;
+}
+    

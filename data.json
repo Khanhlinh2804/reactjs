@@ -1,0 +1,114 @@
+{
+    "products":[
+       {
+        "id":1,
+        "name": "Classico",
+        "price": 1050,
+        "quantity": 1,
+        "discount": 840,
+        "image":"http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-01.png",
+        "type": "smart"
+       },
+       {
+        "id":2,
+        "name": "Classico",
+        "price": 150,
+        "quantity": 70,
+        "discount": 100,
+        "image":"http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-03-300x300.png",
+        "type": "smart"
+
+       },
+       {
+        "id":3,
+        "name": "SMARTWATCH V8",
+        "price": 380,
+        "quantity": 80,
+        "discount": 250,
+        "image":"https://cf.shopee.vn/file/a61d78b0a38ad35702574483876b6b15",
+        "type": "smart"
+       }, 
+       {
+        "id":4,
+        "name": "Classico",
+        "price": 350,
+        "quantity": 20,
+        "discount": 65.99,
+        "image":"http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/product-14-300x300.jpg",
+        "type": "basic"
+       },
+       {
+        "id":5,
+        "name": "Apple Watch Series 7",
+        "price":  300,
+        "quantity": 20,
+        "discount": 240,
+        "image":"https://www.techstation.it/wp-content/uploads/2018/09/Nuovo-Apple-Watch-2-367x420.jpg",
+        "type": "smart"
+       },
+       {
+        "id":6,
+        "name": "Apple Watch Series 7",
+        "price":  120,
+        "quantity": 9,
+        "discount": 100,
+        "image":"https://www.techstation.it/wp-content/uploads/2018/09/Nuovo-Apple-Watch-6-367x420.jpg",
+        "type": "smart"
+       }, 
+       {
+        "id":7,
+        "name": "Fitbit Versa 3",
+        "price": 250,
+        "quantity": 15,
+        "discount": 180,
+        "image":"https://www.techstation.it/wp-content/uploads/2018/09/Nuovo-Apple-Watch-3-894x1024.jpg",
+        "type": "basic"
+       }, 
+       {
+        "id":8,
+        "name": " Series 6",
+        "price":  500,
+        "quantity": 1,
+        "discount": 450,
+        "image":"https://didongmoi.com.vn/upload/images/product/apple-watch-se-(2).jpg",
+        "type": "basic"
+       }, 
+       {
+        "id":9,
+        "name": " Series 6",
+        "price":  760,
+        "quantity": 1,
+        "discount": 650,
+        "image":"https://didongmoi.com.vn/upload/images/product/apple-watch-se-(2).jpg",
+        "type": "smart"
+       }, 
+       {
+        "id":10,
+        "name": "AppleWatch Series 5",
+        "price":  450,
+        "quantity": 1,
+        "discount": 400,
+        "image":"https://cf.shopee.co.id/file/2343821785fb61bcb33bf4525a81dad8",
+        "type": "smart"
+       },
+       {
+        "id":11,
+        "name": " Đồng Hồ JA-1228B",
+        "price":  1500,
+        "quantity": 1,
+        "discount": 1300,
+        "image":"https://juliuswatch.vn/wp-content/uploads/2020/04/dong-ho-julius-mat-tron-800x800.jpg",
+        "type": "basic"
+       },
+       {
+        "id":12,
+        "name": " Đồng Hồ JS-044C",
+        "price":  430,
+        "quantity": 1,
+        "discount": 350,
+        "image":"https://juliuswatch.vn/wp-content/uploads/2020/04/dong-ho-julius-mat-tron2.jpg",
+        "type": "basic"
+       }
+       
+    ]
+}
